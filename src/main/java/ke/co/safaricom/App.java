@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import static java.lang.System.*;
 
-public class Main {
+public class App {
 
     public static void main(String[] args) {
         boolean programRunning = true;
