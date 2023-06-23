@@ -12,14 +12,19 @@ This is an encryption program that takes in text input from a user and encrypts 
 - Install gradle
 - To run the program in the terminal you can use 'gradle run' command
 ## B.D.D ##
---- behaviour ---	|input	output
-encrypts text	input any string		displays the encrypted text
-decrypts encrypted string	input string	displays the dencrypted text
-Technologies Used
-Intelli J IDEA
-java
-Git
-Known Bugs
-no bugs yet
+| Behavior          |        Input         |                       Output |                        |
+|-------------------|:--------------------:|-----------------------------:|-----------------------:|
+|encrypts text      |   input any string   |                              | displays encypted text |
+| decrypts encrypted string        | input string         | displays the dencrypted text |
 
-Copyright (c) 2019 MIT LICENSE
+      
+			
+		
+## Technologies Used
+* Intelli J IDEA
+* Java
+* Git
+### Known Bugs
+No bugs yet
+
+Copyright (c) 2023 MIT LICENSE
