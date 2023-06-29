@@ -27,4 +27,4 @@ This is an encryption program that takes in text input from a user and encrypts 
 ### Known Bugs
 No bugs yet
 
-Copyright (c) 2023 MIT LICENSE
+Copyright (c) 2023 ([MIT LICENSE])
